@@ -1,5 +1,7 @@
 # hstore-field
 
+hstore-field is not compatible with django1.5+
+
 hstore-field is a library which integrates the 
 [`hstore`](http://www.postgresql.org/docs/9.0/interactive/hstore.html)
 extension of PostgreSQL into Django, assuming one is using Django 1.3+, 
